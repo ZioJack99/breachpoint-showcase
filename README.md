@@ -61,7 +61,7 @@ Breachpoint is a casual multiplayer game, not an esports platform. There is no h
 
 ## About this repository
 
-This is a showcase repository: it contains no source code, build scripts or assets beyond the cover art and logo. The implementation lives in a private repository. Questions, bug reports and feedback are welcome in [Issues](../../issues).
+This is a showcase repository: it contains no source code, installers or build scripts, and no assets beyond the cover art and logo. The browser version and the Windows build are distributed only from the official site linked at the top of this page; the implementation lives in a private repository. Questions, bug reports and feedback are welcome in [Issues](../../issues).
 
 ## Credits
 
